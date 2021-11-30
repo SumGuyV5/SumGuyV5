@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumGuyV5
-- 👀 I’m interested in C++, Video Game Dev and FreeBSD.
+- 👀 I’m interested in C++, Python, Video Game Dev and FreeBSD.
 - 🌱 I’m currently learning Unity Game Dev.
 - 📫 How to reach me richard2891@gmail.com
 
