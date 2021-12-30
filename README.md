@@ -1,3 +1,5 @@
+[![Donate PayPal](https://img.shields.io/badge/Donate-PayPal-red.svg)](https://www.paypal.com/donate/?hosted_button_id=Y5RA82T8SHDXE)
+
 - 👋 Hi, I’m @SumGuyV5
 - 👀 I’m interested in C++, Python, Video Game Dev and FreeBSD.
 - 🌱 I’m currently learning Unity Game Dev.
